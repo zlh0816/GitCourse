@@ -1,1 +1,10 @@
 log/*
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package files
+*.jar
